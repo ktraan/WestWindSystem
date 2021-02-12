@@ -1,0 +1,12 @@
+C:\Users\kevin\Documents\GitHub\DMIT2018-WorkBook-updated-\src\Code-First from Database\WestWindSystem\bin\Debug\WestWindSystem.dll.config
+C:\Users\kevin\Documents\GitHub\DMIT2018-WorkBook-updated-\src\Code-First from Database\WestWindSystem\bin\Debug\WestWindSystem.dll
+C:\Users\kevin\Documents\GitHub\DMIT2018-WorkBook-updated-\src\Code-First from Database\WestWindSystem\bin\Debug\WestWindSystem.pdb
+C:\Users\kevin\Documents\GitHub\DMIT2018-WorkBook-updated-\src\Code-First from Database\WestWindSystem\bin\Debug\EntityFramework.dll
+C:\Users\kevin\Documents\GitHub\DMIT2018-WorkBook-updated-\src\Code-First from Database\WestWindSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kevin\Documents\GitHub\DMIT2018-WorkBook-updated-\src\Code-First from Database\WestWindSystem\bin\Debug\EntityFramework.xml
+C:\Users\kevin\Documents\GitHub\DMIT2018-WorkBook-updated-\src\Code-First from Database\WestWindSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kevin\Documents\GitHub\DMIT2018-WorkBook-updated-\src\Code-First from Database\WestWindSystem\obj\Debug\WestWindSystem.csprojAssemblyReference.cache
+C:\Users\kevin\Documents\GitHub\DMIT2018-WorkBook-updated-\src\Code-First from Database\WestWindSystem\obj\Debug\WestWindSystem.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\GitHub\DMIT2018-WorkBook-updated-\src\Code-First from Database\WestWindSystem\obj\Debug\WestWindSystem.csproj.CopyComplete
+C:\Users\kevin\Documents\GitHub\DMIT2018-WorkBook-updated-\src\Code-First from Database\WestWindSystem\obj\Debug\WestWindSystem.dll
+C:\Users\kevin\Documents\GitHub\DMIT2018-WorkBook-updated-\src\Code-First from Database\WestWindSystem\obj\Debug\WestWindSystem.pdb
